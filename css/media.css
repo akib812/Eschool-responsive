@@ -1,0 +1,276 @@
+@media (max-width: 1199px) {
+    .gallery-item h1 {
+        line-height: 28px !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .banner {
+        min-height: 50vh !important;
+    }
+
+    .client p {
+        margin-top: 0 !important;
+    }
+
+    .navbar-brand {
+        margin-right: 0;
+    }
+
+    .navbar-light .navbar-nav .sign {
+        display: inline-block;
+        margin-left: 0;
+        padding: 9px 18px;
+        font-size: 16px;
+    }
+
+    .navbar-light .navbar-toggler {
+        border: none;
+        padding: 0;
+    }
+
+    .navbar-light .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .toggler-icon i {
+        color: #0d4d2f;
+    }
+
+    .navbar-nav {
+        text-align: center !important;
+    }
+
+
+
+    .banner-left {
+        display: none;
+
+    }
+
+    .banner h5 {
+        font-size: 17px;
+        margin-bottom: 5px;
+
+    }
+
+    .banner h1 {
+        line-height: 55px !important;
+        font-size: 39px !important;
+        margin-bottom: 18px !important;
+    }
+
+    .banner p {
+        font-size: 16px !important;
+        line-height: 30px !important;
+        margin-bottom: 15px !important;
+    }
+
+    .btn-custom {
+        font-size: 16px !important;
+        padding: 12px 21px !important;
+    }
+
+    .container-fluid {
+        padding-left: 0;
+        padding-right: 0;
+
+    }
+
+    .icon-new {
+        width: 50%;
+        margin: auto;
+    }
+
+    .gallery-item h1 {
+        font-size: 27px !important;
+        line-height: 28px !important;
+        margin-top: 15px !important;
+    }
+
+    .btn-gallery {
+        padding: 6px 18px !important;
+        margin-top: 10px !important;
+    }
+
+    .gallery-item ul li {
+        font-size: 10px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .banner {
+        min-height: 92vh !important;
+    }
+
+    .navbar-brand img {
+
+        width: 70%;
+    }
+
+    .container-fluid {
+        padding-left: 0;
+        padding-right: 0;
+
+    }
+
+    .navbar-brand {
+        margin-right: 0;
+    }
+
+    .navbar-light .navbar-nav .sign {
+        display: inline-block;
+        margin-left: 0;
+        padding: 9px 18px;
+        font-size: 16px;
+    }
+
+    .navbar-light .navbar-toggler {
+        border: none;
+        padding: 0;
+    }
+
+    .navbar-light .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .toggler-icon i {
+        color: #0d4d2f;
+    }
+
+    .navbar-nav {
+        text-align: center !important;
+    }
+
+    .banner-right {
+        display: none;
+    }
+
+    .banner-left {
+        display: block !important;
+        text-align: center;
+    }
+
+    .banner h5 {
+        font-size: 17px;
+        margin-bottom: 5px;
+
+    }
+
+    .banner h1 {
+        line-height: 55px !important;
+        font-size: 41px !important;
+        margin-bottom: 18px !important;
+    }
+
+    .banner p {
+        font-size: 14px !important;
+        line-height: 30px !important;
+        margin-bottom: 15px !important;
+    }
+
+    .btn-custom {
+        font-size: 15px !important;
+        padding: 10px 20px !important;
+    }
+
+    .content-bar h2 {
+        font-size: 20px;
+    }
+
+    .content-bar h5 {
+        font-size: 16px;
+    }
+
+    .gallery-item h1 {
+        line-height: 30px !important;
+        margin-bottom: 5px !important;
+
+    }
+
+    .gallery-new h1 {
+        font-size: 28px !important;
+        margin-bottom: 45px !important;
+    }
+
+    .btn-gallery {
+        padding: 10px 16px !important;
+        margin-top: 10px !important;
+    }
+
+    .client h1 {
+        margin-top: 0px !important;
+        font-size: 35px !important;
+        margin-bottom: 45px !important;
+
+    }
+
+    .client {
+        padding-top: 15px !important;
+        padding-bottom: 35px !important;
+    }
+
+    .client-img {
+        width: 60% !important;
+        margin: auto !important;
+        margin-bottom: 30px !important;
+    }
+
+    .client p {
+        text-align: center;
+        margin-top: 30px;
+
+    }
+
+    footer {
+        padding-top: 25px !important;
+        padding-bottom: 25px !important;
+    }
+
+    footer ul {
+
+        margin-bottom: 20px !important;
+    }
+
+    footer ul li:first-child {
+        font-size: 20px !important;
+
+    }
+
+    footer p {}
+
+    .footer-bottom {
+        margin-top: 10px !important;
+        margin-bottom: 0 !important;
+    }
+
+    .footer-ul {
+        width: 33%;
+
+    }
+}
+
+
+@media (max-width: 575px) {
+
+    .banner h1 {
+        line-height: 55px !important;
+        font-size: 35px !important;
+        margin-bottom: 18px !important;
+    }
+
+
+}
+
+@media (max-width: 560px) {
+    .icon-new {
+        width: 80%;
+        margin: auto;
+    }
+}
+
+@media (max-width: 442px) {
+    .footer-ul {
+        width: 50%;
+    }
+}
