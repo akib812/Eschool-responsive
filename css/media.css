@@ -6,7 +6,7 @@
 
 @media (max-width: 991px) {
     .banner {
-        min-height: 50vh !important;
+        min-height: 20vh !important;
     }
 
     .client p {
